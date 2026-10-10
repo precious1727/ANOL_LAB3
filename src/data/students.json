@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "name": "Precious Myka F. Anol",
+    "studentNumber": "202404934",
+    "course": "BSIT",
+    "yearLevel": "3rd Year",
+    "sex": "Female"
+  },
+  {
+    "id": 2,
+    "name": "Zea Antonia Logronio",
+    "studentNumber": "202404935",
+    "course": "BSCS",
+    "yearLevel": "3rd Year",
+    "sex": "Female"
+  },
+  {
+    "id": 3,
+    "name": "Felicity Rose Baccol",
+    "studentNumber": "202404936",
+    "course": "BSCpE",
+    "yearLevel": "3rd Year",
+    "sex": "Female"
+  },
+
+    {
+    "id": 4,
+    "name": "Roshan Val Alto",
+    "studentNumber": "202404937",
+    "course": "BSIS",
+    "yearLevel": "3rd Year",
+    "sex": "Female"
+  },
+
+  {
+    "id": 5,
+    "name": "Vivienne Ruth Zoleta",
+    "studentNumber": "202404938",
+    "course": "BSN",
+    "yearLevel": "3rd Year",
+    "sex": "Female"
+  }
+
+]

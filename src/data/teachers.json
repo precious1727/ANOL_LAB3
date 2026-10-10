@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "John Aimiel C. Pena",
+    "specialization": "Programming",
+    "department": "DIT",
+    "sex": "Male"
+  },
+  {
+    "id": 2,
+    "name": "James Carlo Astilla",
+    "specialization": "Programming",
+    "department": "DIT",
+    "sex": "Male"
+  }
+]

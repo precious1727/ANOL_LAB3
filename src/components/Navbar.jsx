@@ -4,8 +4,10 @@ function Navbar() {
   return (
     <nav>
       <Link to="/">Home</Link>
-      <Link to="/students">Students</Link>
-      <Link to="/add-student">Add Student</Link> {/* New link added */}
+      <Link to="/students">Student Lists</Link>
+      <Link to="/add-student">Add Student</Link>
+      <Link to="/teachers">Teacher Lists</Link>
+      <Link to="/add-teacher">Add Teacher</Link>
     </nav>
   );
 }

@@ -1,13 +1,12 @@
-import studentsData from '../data/students.json'; 
 import StudentCard from '../components/StudentCard'; 
 
-function Students() {
+function Students({ studentsData }) {
   return (
     <div>
       <h2>Student List</h2>
       <div className="student-list">
         {studentsData.map((student) => (
-          <StudentCard key={student.id} student={student} />
+          <StudentCard key={student._id} student={student} />
         ))}
       </div>
     </div>
